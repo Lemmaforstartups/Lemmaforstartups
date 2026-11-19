@@ -1,3 +1,5 @@
+<a href="https://lemmaforstartups.com/"><img src="logo.png" alt="Lemma for Startups" width="96"></a>
+
 # Lemma for Startups
 
 The back office for lean AI startups, seed to Series B: finance, operations and investor reporting. AI does the first pass. A human reviews it.
